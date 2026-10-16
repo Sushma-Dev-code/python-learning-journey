@@ -58,3 +58,40 @@ Multithreading
 Multiprocessing
 
 Building strong Python skills step by step 🚀
+
+## Git learning essentials
+This repository is also a practical place to learn Git basics alongside Python concepts.
+
+Check out the Git cheat sheet here:
+- [git-cheatsheet.md](git-cheatsheet.md)
+
+### Quick Git topics included
+- git init
+- git clone
+- git status
+- git add
+- git commit
+- git push
+- git pull
+- git branch
+- git merge
+- git checkout / git switch
+
+### Why Git matters
+Git helps you:
+- track code changes over time
+- collaborate with others safely
+- work on features in separate branches
+- review history and revert mistakes when needed
+
+### Beginner workflow
+```bash
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/your-username/your-repo.git
+git push -u origin main
+```
+
+This repo can be used as a revision-friendly place to practice both Python and Git.
